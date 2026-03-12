@@ -25,6 +25,7 @@ The layout is styled using CSS and includes responsive design to ensure the webs
 - HTML5
 - CSS3
 
+```
 ## Project Structure
 portfolio-project/
 │ 
@@ -33,6 +34,7 @@ portfolio-project/
 ├── my-photo.jpg 
 ├── resume.pdf 
 └── README.md
+```
 
 ## How to Run the Project
 
