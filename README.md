@@ -25,8 +25,8 @@ The layout is styled using CSS and includes responsive design to ensure the webs
 - HTML5
 - CSS3
 
-```
 ## Project Structure
+```
 portfolio-project/
 │ 
 ├── index.html
